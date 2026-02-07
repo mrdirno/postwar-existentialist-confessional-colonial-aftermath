@@ -1,0 +1,72 @@
+{
+  "book_id": "postwar-existentialist-confessional-colonial-aftermath",
+  "title": "The Patient Poison of Silence",
+  "tagline": "A limping Frenchman searches for a man he isn't looking for in the ghost-ridden aftermath of empire, where every truth is a negotiation.",
+  "target_words": 75765,
+  "actual_words": 75765,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of Colonial Aftermath",
+    "The Search for Identity in Exile",
+    "Bodily and Historical Trauma",
+    "The Negotiation of Truth and Memory"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Horizontal Rain",
+      "words": 6887
+    },
+    {
+      "ch": 2,
+      "title": "The Sun Has Weight",
+      "words": 6887
+    },
+    {
+      "ch": 3,
+      "title": "A Pastiche of Arches",
+      "words": 6887
+    },
+    {
+      "ch": 4,
+      "title": "The Cave of Shadows",
+      "words": 6887
+    },
+    {
+      "ch": 5,
+      "title": "The Cathedral of Noise",
+      "words": 6887
+    },
+    {
+      "ch": 6,
+      "title": "A Granular Brightening",
+      "words": 6887
+    },
+    {
+      "ch": 7,
+      "title": "A Vein of Shadow",
+      "words": 6887
+    },
+    {
+      "ch": 8,
+      "title": "The Patient Poison",
+      "words": 6887
+    },
+    {
+      "ch": 9,
+      "title": "A Sea of Shadow",
+      "words": 6887
+    },
+    {
+      "ch": 10,
+      "title": "The Suggestion of a Path",
+      "words": 6887
+    },
+    {
+      "ch": 11,
+      "title": "The Greasy Particulate Fog",
+      "words": 6887
+    }
+  ]
+}
